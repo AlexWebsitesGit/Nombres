@@ -1,0 +1,16 @@
+Stripe
+Square
+SumUp
+Mollie
+Skrill Business
+Authorize.Net
+Revolut Business
+NMI
+Overpay
+MONEI
+Razorpay - UPI
+Mercado Pago
+VenPayr
+OVGC Payment
+PayMongo
+Amazon Pay
